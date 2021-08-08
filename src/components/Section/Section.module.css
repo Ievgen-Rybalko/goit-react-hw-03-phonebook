@@ -1,0 +1,15 @@
+.section {
+  margin: 10px 30px;
+  text-align: left;
+}
+
+.container {
+  max-width: 500px;
+  padding: 20px;
+  background-color: darkslategray;
+  border-radius: 10px;
+}
+
+h2 {
+  color: aqua;
+}
